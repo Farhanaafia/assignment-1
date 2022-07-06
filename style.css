@@ -61,6 +61,7 @@ input:focus {
   font-weight: normal;
   width: 798px;
   color: #dfdfdf;
+  margin:0 auto;
 }
 
 .link-button {
